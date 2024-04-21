@@ -9,3 +9,5 @@
 - Jsoup
 
 Frontend - https://github.com/hnoievets/java_lab_FE
+
+Автор: Гноєвець О.А. 126-20-1
