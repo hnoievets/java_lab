@@ -1,14 +1,10 @@
 # AutoriaParser
-## Знаходить авто з Autoria за брендом, моделлю, роком. Записує до файлу ексель. До БД записується історія пошуку
+## APIs to find cars from the AUTO.RIA website by brand, model, and year. Saves to an Excel file. Search history is saved to the DB
 
 
-Технології:
+Technologies:
 - Spring Boot
 - Spring Data
 - PostgreSQL 15
 - Apache.poi
 - Jsoup
-
-Frontend - https://github.com/hnoievets/java_lab_FE
-
-Гноєвець О.А. 126-20-1
